@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Ubuntu:wght@300&display=swap');
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.dance-font{
+    font-family: 'Dancing Script', cursive;
+}
+
+.add-nav-color {
+    background-color: blue !important;
+}
+
+#carouselExampleIndicators .carousel-caption-1 {
+    text-align: left;
+    padding: 20px;
+    top: 35%;
+    transform: translateY(-75%);
+    bottom: initial;
+    width: 36%;
+}
+
+#carouselExampleIndicators .carousel-caption-2 {
+    text-align: left;
+    padding: 20px;
+    top: 35%;
+    left: 64%;
+    transform: translateY(-75%);
+    bottom: initial;
+    width: 30%;
+}
+
+#carouselExampleIndicators .carousel-caption-3 {
+    text-align: left;
+    padding: 20px;
+    top: 65%;
+    left: 60%;
+    transform: translateY(-75%);
+    top: initial;
+    width: 35%;
+}
+
+
